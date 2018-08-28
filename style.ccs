@@ -1,0 +1,7 @@
+  p{
+     font-size: 200%;
+     color: light blue;
+    }
+  body{
+        background-color: red;
+       }
