@@ -12,6 +12,7 @@ h1 {
 p {
     font-size: 26px;
 }
-p {
-    font-size: 14px;
+
+p.italic {
+    font-style: italic;
 }
