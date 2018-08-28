@@ -5,3 +5,7 @@
   body{
         background-color: red;
        }
+h1 {
+    border-style: solid;
+    border-color: coral;
+}
