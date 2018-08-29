@@ -11,9 +11,11 @@ h1 {
 }
 p {
     font-size: 50px;
+    font-style: italic;
+   border:25px solid black;
 }
-
 p {
+    font-size: 50px;
     font-style: italic;
    border:25px solid black;
 }
