@@ -17,6 +17,7 @@ p {
    margin:50 px;
   padding: 50px;
 }
+p.inset {border-style: inset;}
 pre {
     font-size: 50px;
   text-align: center;
