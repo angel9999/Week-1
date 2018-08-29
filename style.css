@@ -13,11 +13,10 @@ p {
     font-size: 50px;
     font-style: italic;
    border:25px solid black;
+  text-align: center;
 }
-p {
+pre {
     font-size: 50px;
-    font-style: italic;
-   border:25px solid black;
 }
 img
 {
