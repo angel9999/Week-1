@@ -14,9 +14,12 @@ p {
     font-style: italic;
    border:25px solid black;
   text-align: center;
+   margin:50 px;
+  padding: 50px;
 }
 pre {
     font-size: 50px;
+  text-align: center;
 }
 img
 {
